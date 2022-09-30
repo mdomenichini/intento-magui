@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "IntentoMagui",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

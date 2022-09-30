@@ -1,0 +1,8 @@
+{
+  "name": "IntentoMagui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a4f25fe4"
+}
